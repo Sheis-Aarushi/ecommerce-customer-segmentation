@@ -1,0 +1,16 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Local dataset and generated files
+data/Online Retail.xlsx
+data/ecommerce.db
+data/rfm_customers.csv
